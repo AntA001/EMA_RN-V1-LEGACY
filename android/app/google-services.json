@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "33998560670",
+    "project_id": "ema-app-7d380",
+    "storage_bucket": "ema-app-7d380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33998560670:android:12ffa072fe143156bcca8f",
+        "android_client_info": {
+          "package_name": "com.aprike.ema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33998560670-9dtbqpsr1nhq3fikf7q496e6o1k3e8im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3GdKPqNee6097U86uTMwUz0HJO1IWK74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33998560670-9dtbqpsr1nhq3fikf7q496e6o1k3e8im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "33998560670-v3b6kcrv59vg447bk8r492of1ut31d78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aprike.ema"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
